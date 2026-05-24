@@ -26,13 +26,14 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 ## 📊 GitHub At a Glance
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats-git-master-anurag90s.vercel.app/api?username=amitAICraft&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-master-anurag90s.vercel.app/api/top-langs/?username=amitAICraft&layout=compact&theme=dark&hide_border=true)
+**Explore my repositories:** [github.com/amitAICraft](https://github.com/amitAICraft?tab=repositories)
+
+**Most Active In:** React • Next.js • TypeScript • JavaScript
+
+**Contributions:** Consistent shipping across telecom, fintech, healthcare, edtech
 
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
