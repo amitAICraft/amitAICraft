@@ -17,7 +17,7 @@
 
 ## About Me
 
-Senior Frontend Engineer with **7+ years** building production React & Next.js apps. I specialize in **web performance**, **system design**, **AI-powered frontends**, and helping teams ship faster. Currently building **LearnAIcraft** — teaching AI + frontend dev to a growing community.
+Senior Frontend Engineer with **7+ years** building production React & Next.js apps. I specialize in **web performance**, **system design**, **AI-powered frontends**, and helping teams ship faster. Currently building **LearnAIcraft** , teaching AI + frontend dev to a growing community.
 
 **Looking to work with:** Freelance projects, remote roles, mentorship gigs, and collaborations.
 
