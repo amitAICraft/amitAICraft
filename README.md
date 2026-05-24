@@ -36,6 +36,16 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 </div>
 ---
 
+## 📊 GitHub At a Glance
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=amitAICraft&style=flat-square&color=blue)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=amitAICraft&theme=dark)
+
+</div>
+
 ## 🛠️ Tech Stack
 
 **Frontend:**
