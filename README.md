@@ -26,11 +26,11 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 ## 📊 GitHub At a Glance
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats-git-master-anurag90s.vercel.app/api?username=amitAICraft&show_icons=true&theme=dark&hide_border=true)
 
-<a href="https://github.com/amitAICraft">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitAICraft&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitAICraft&layout=compact&theme=dark" />
-</a>
+![Top Languages](https://github-readme-stats-git-master-anurag90s.vercel.app/api/top-langs/?username=amitAICraft&layout=compact&theme=dark&hide_border=true)
+
 </div>
 
 ---
