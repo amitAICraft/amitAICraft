@@ -21,7 +21,7 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 
 **Looking to work with:** Freelance projects, remote roles, mentorship gigs, and collaborations.
 
-**Popular:** "1:1 Mentorship- Career Development & Career Switch" (viral)[https://topmate.io/amitaicraft/448491]
+**Popular:** "1:1 Mentorship- Career Development & Career Switch" [https://topmate.io/amitAICraft/448491]
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -93,7 +93,7 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 
 ---
 
-## 📊 GitHub At a Glance
+## 📊 GitHub Thinktank
 
 <div align="center">
 
@@ -138,13 +138,13 @@ Building a platform that teaches how to build AI-powered frontends. Open communi
 
 ## 📝 Latest Articles & Mentorships
 
-Check out my Topmate to know more **[topmate.io/amitaicraft](https://topmate.io/amitaicraft)** — focusing on:
+Check out my Topmate to know more **[topmate.io/amitaicraft](https://topmate.io/amitAICraft)** — focusing on:
   - Career growth & mentoring lessons
   - 1:1 Mentorhships
   - React, JavaScript, Next js course
 **Popular:** "Cursor AI for Frontend Developers" (viral post)
 
-Check out my writing on **[dev.to/amitaicraft](https://dev.to/amitaicraft)** — focusing on:
+Check out my writing on **[dev.to/amitaicraft](https://dev.to/amitAICraft)** — focusing on:
 - AI + Frontend workflows ( Claude, Github Copilot assisted coding tools)
 - System design for frontend engineers
 - Web performance optimization
@@ -155,7 +155,7 @@ Check out my writing on **[dev.to/amitaicraft](https://dev.to/amitaicraft)** —
 ## 🎯 Currently Working On
 - 🤖 **amitAIcraft:** To know more about me
 - 🤖 **LearnAIcraft Course:** Building AI-powered frontend development course for Tech market (UPI integration, affordable pricing)
-- 📚 **Teaching & Mentoring:** Active on [Topmate](https://topmate.io/amitAIcraft) — 1-on-1 mentoring in React, Next.js, system design and many more
+- 📚 **Teaching & Mentoring:** Active on [Topmate](https://topmate.io/amitAICraft) — 1-on-1 mentoring in React, Next.js, system design and many more
 - 🎬 **Social Community:** Shipping tutorials, breakdowns, and real-world debugging sessions
 - 💼 **Freelance:** Available for freelance projects, frontend builds, code reviews or any other help needed 
 
@@ -181,15 +181,15 @@ Check out my writing on **[dev.to/amitaicraft](https://dev.to/amitaicraft)** —
 - **Speaking:** Talks on AI + Frontend, system design, performance
 
 ### Learn From Me:
-- **1-on-1 Mentoring:** [Topmate/amitAIcraft](https://topmate.io/amitAIcraft)
+- **1-on-1 Mentoring:** [Topmate/amitAIcraft](https://topmate.io/amitAICraft)
 - **YouTube:** Tutorials, debugging walkthroughs, career advice
 - **Discord:** Community discussions, code reviews, real-time help [Dicord/amitAIcraft](https://discord.gg/5pdY7VdNBx)
 - **dev.to:** In-depth articles on frontend + AI
 
 ### Quick Links:
-- 💼 **LinkedIn:** [linkedin.com/in/amitAICraft](https://linkedin.com/in/amitaicraft)
-- 💼 **Topmate:** [topmate.io/amitAICraft](https://topmate.io/amitaicraft)
-- 🐦 **Twitter:** [@amitAIcraft](https://twitter.com/amitAIcraft)
+- 💼 **LinkedIn:** [linkedin.com/in/amitAICraft](https://linkedin.com/in/amitAICraft)
+- 💼 **Topmate:** [topmate.io/amitAICraft](https://topmate.io/amitAICraft)
+- 🐦 **Twitter:** [@amitAIcraft](https://twitter.com/amitAICraft)
 - 📧 **Email:** Reach out via (amitmaurya700@gmail.com)
 - 🎓 **Discord:** [@amitAICraft](https://discord.gg/5pdY7VdNBx)
 
@@ -211,6 +211,6 @@ Check out my writing on **[dev.to/amitaicraft](https://dev.to/amitaicraft)** —
 
 Always open to interesting projects, mentorship requests, and collaborations.
 
-**[→ Let's talk](https://topmate.io/amitAIcraft)**
+**[→ Let's talk](https://topmate.io/amitAICraft)**
 
 </div>
