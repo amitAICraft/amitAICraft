@@ -1,8 +1,8 @@
-# Amit — Senior Frontend Engineer & AI Builder
+# Amit — Senior Frontend Engineer & AI Builder (Building LearnAICraft)
 
 <div align="center">
 
-**Shipping AI-powered frontends | React & Next.js | System Design | Mentoring**
+**Shipping AI-powered frontends | React & Next.js | System Design | Web Optimization | Mentoring | Freelancing**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitaicraft)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amitAIcraft)
