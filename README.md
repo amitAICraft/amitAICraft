@@ -21,26 +21,13 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 
 **Looking to work with:** Freelance projects, remote roles, mentorship gigs, and collaborations.
 
----
-
-## 📊 GitHub At a Glance
-
-<div align="center">
-
-**Explore my repositories:** [github.com/amitAICraft](https://github.com/amitAICraft?tab=repositories)
-
-**Most Active In:** React • Next.js • TypeScript • JavaScript • Python • Gen AI • Machine Learning
-
-**Contributions:** Consistent shipping across Telecom, Fintech, Healthcare, Edtech, Insurance
-
-</div>
+**Popular:** "1:1 Mentorship- Career Development & Career Switch" (viral)[https://topmate.io/amitaicraft/448491]
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### **Frontend Core**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,10 +35,10 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=000)
 
 ### **State Management & Build Tools**
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -62,7 +49,7 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### **Web Performance & Optimization**
-![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-FF4B4B?style=for-the-badge&logoColor=white)
+![Core Web Vitals(LCP, TBT, FCP)](https://img.shields.io/badge/Core_Web_Vitals-FF4B4B?style=for-the-badge&logoColor=white)
 ![SSR](https://img.shields.io/badge/SSR-000000?style=for-the-badge&logoColor=white)
 ![SSG](https://img.shields.io/badge/SSG-00D9FF?style=for-the-badge&logoColor=white)
 ![Code_Splitting](https://img.shields.io/badge/Code_Splitting-09A3D5?style=for-the-badge&logoColor=white)
@@ -70,10 +57,8 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 ![Critical_CSS](https://img.shields.io/badge/Critical_CSS-1572B6?style=for-the-badge&logoColor=white)
 
 ### **AI & Dev Tools**
-![Cursor](https://img.shields.io/badge/Cursor_AI-09A3D5?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-9333EA?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gen_AI](https://img.shields.io/badge/Gen_AI-FF6B6B?style=for-the-badge&logoColor=white)
 
 ### **APIs & Integrations**
@@ -92,6 +77,7 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 ![Agile](https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logoColor=white)
 ![AppDynamics](https://img.shields.io/badge/AppDynamics-31A8FF?style=for-the-badge&logoColor=white)
 ![Security](https://img.shields.io/badge/Security_Practices-D32F2F?style=for-the-badge&logoColor=white)
+
 ## 🔥 What I Actually Do
 
 ### For Teams & Companies
@@ -101,59 +87,77 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 - **Tech Decisions:** Stack selection, migrations, modernization strategies
 
 ### For Individuals & Startups
-- **Mentorship:** React, Next.js, system design, becoming a better engineer
+- **Mentorship:** React, Next.js, JavaScript, GenAI, System Design, becoming a better engineer
 - **AI-Powered Products:** Building frontends that leverage GenAI smartly
-- **Public Teaching:** dev.to articles, YouTube tutorials, community engagement
+- **Public Teaching:** Linkedin, Iopmate mentorship, dev.to articles, Discord community, Reddit QnA 
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub At a Glance
 
-### [amitAIcraft Learning Platform](https://github.com/amitAICraft)
-> Teaching AI + Frontend Development | React, Next.js, TypeScript
+<div align="center">
 
-Building a platform that teaches how to build AI-powered frontends. Open community on Discord. Growing audience across dev.to, YouTube, and social.
+**Explore my repositories:** [github.com/amitAICraft](https://github.com/amitAICraft?tab=repositories)
 
-**Impact:** 500+ followers, viral Cursor AI article (3K+ views)
+**Most Active In:** React • Next.js • TypeScript • JavaScript • Python • Gen AI • Machine Learning
+
+**Contributions:** Consistent shipping across Telecom, Fintech, Healthcare, Edtech, Insurance
+
+</div>
+---
+
+## 🚀 Upcoming Projects
+
+### [Building LernAIcraft Learning Platform]
+> Teaching AI + Frontend Development | React, Next.js, TypeScript, JavaScript, GenAI, Python
+
+Building a platform that teaches how to build AI-powered frontends. Open community on Discord. Growing audience across dev.to, discord, LinkedIn, Insta
+
+**Impact:** 1k+ followers, growing tech community
 
 ---
 
-### [Production Apps Across Industries](https://github.com/amitAICraft)
-> Telecom, Fintech, Healthcare, EdTech | React, Next.js, System Design
+### [Production Apps Across Industries]
+> Telecom, Fintech, Healthcare, EdTech, Insurance | React, Next.js, JavaScript, Typescript, System Design
 
-- **STC Kuwait Portal:** React/Next.js B2C application with performance optimization
-- **React Native Telecom App:** Multi-language bundle handling, AppDynamics debugging
+- **B2C Portal:** React/Next.js, B2C application with performance optimization, frontend architecture
+- **React Apps:** Multi-language bundle handling, AppDynamics debugging
 - **Healthcare & Finance Apps:** Built scalable frontends handling 10K+ concurrent users
 
 **Skills Applied:** Performance tuning, cross-team alignment, security practices
 
 ---
 
-### [AI-Powered Tools & Experiments](https://github.com/amitAICraft)
+### [AI-Powered Tools & Experiments]
 > Exploring GenAI in Frontend Development
 
-Building experimental projects integrating OpenAI APIs, testing AI patterns in production React apps.
+- Building experimental projects integrating Claude APIs, testing AI patterns in production React apps.
+- Building amitAICraft
 
 ---
 
-## 📝 Latest Articles
+## 📝 Latest Articles & Mentorships
+
+Check out my Topmate to know more **[topmate.io/amitaicraft](https://topmate.io/amitaicraft)** — focusing on:
+  - Career growth & mentoring lessons
+  - 1:1 Mentorhships
+  - React, JavaScript, Next js course
+**Popular:** "Cursor AI for Frontend Developers" (viral post)
 
 Check out my writing on **[dev.to/amitaicraft](https://dev.to/amitaicraft)** — focusing on:
-- AI + Frontend workflows (Cursor, Claude, automation)
+- AI + Frontend workflows ( Claude, Github Copilot assisted coding tools)
 - System design for frontend engineers
 - Web performance optimization
 - Career growth & mentoring lessons
 
-**Popular:** "Cursor AI for Frontend Developers" (viral post)
-
 ---
 
 ## 🎯 Currently Working On
-
-- 🤖 **amitAIcraft Course:** Building AI-powered frontend development course for Indian market (UPI integration, affordable pricing)
-- 📚 **Teaching & Mentoring:** Active on [Topmate](https://topmate.io/amitAIcraft) — 1-on-1 mentoring in React, Next.js, system design
-- 🎬 **YouTube & Community:** Shipping tutorials, breakdowns, and real-world debugging sessions
-- 💼 **Freelance:** Available for short-term projects, AI-powered frontend builds, code reviews
+- 🤖 **amitAIcraft:** To know more about me
+- 🤖 **LearnAIcraft Course:** Building AI-powered frontend development course for Tech market (UPI integration, affordable pricing)
+- 📚 **Teaching & Mentoring:** Active on [Topmate](https://topmate.io/amitAIcraft) — 1-on-1 mentoring in React, Next.js, system design and many more
+- 🎬 **Social Community:** Shipping tutorials, breakdowns, and real-world debugging sessions
+- 💼 **Freelance:** Available for freelance projects, frontend builds, code reviews or any other help needed 
 
 ---
 
@@ -179,14 +183,15 @@ Check out my writing on **[dev.to/amitaicraft](https://dev.to/amitaicraft)** —
 ### Learn From Me:
 - **1-on-1 Mentoring:** [Topmate/amitAIcraft](https://topmate.io/amitAIcraft)
 - **YouTube:** Tutorials, debugging walkthroughs, career advice
-- **Discord:** Community discussions, code reviews, real-time help
+- **Discord:** Community discussions, code reviews, real-time help [Dicord/amitAIcraft](https://discord.gg/5pdY7VdNBx)
 - **dev.to:** In-depth articles on frontend + AI
 
 ### Quick Links:
-- 💼 **LinkedIn:** [linkedin.com/in/amitaicraft](https://linkedin.com/in/amitaicraft)
+- 💼 **LinkedIn:** [linkedin.com/in/amitAICraft](https://linkedin.com/in/amitaicraft)
+- 💼 **Topmate:** [topmate.io/amitAICraft](https://topmate.io/amitaicraft)
 - 🐦 **Twitter:** [@amitAIcraft](https://twitter.com/amitAIcraft)
-- 📧 **Email:** Reach out via LinkedIn or DM on Twitter
-- 🎓 **Topmate:** [topmate.io/amitAIcraft](https://topmate.io/amitAIcraft)
+- 📧 **Email:** Reach out via (amitmaurya700@gmail.com)
+- 🎓 **Discord:** [@amitAICraft](https://discord.gg/5pdY7VdNBx)
 
 ---
 
@@ -194,7 +199,7 @@ Check out my writing on **[dev.to/amitaicraft](https://dev.to/amitaicraft)** —
 
 - **7+ years** shipping production React & Next.js apps
 - **100+** engineers mentored through code reviews & direct mentoring
-- **500K+** total reach across dev.to, YouTube, Twitter, Instagram
+- **2K+** total reach across Insta, LinkedIn, topmate
 - **Domains:** Telecom, Fintech, Healthcare, EdTech, Insurance
 - **Passion:** Making complex frontend problems simple, teaching others to think like architects
 
