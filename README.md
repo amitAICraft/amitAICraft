@@ -17,7 +17,7 @@
 
 ## About Me
 
-Senior Frontend Engineer with **7+ years** building production React & Next.js apps. I specialize in **web performance**, **system design**, **AI-powered frontends**, and helping teams ship faster. Currently building **amitAIcraft** — teaching AI + frontend dev to a growing community.
+Senior Frontend Engineer with **7+ years** building production React & Next.js apps. I specialize in **web performance**, **system design**, **AI-powered frontends**, and helping teams ship faster. Currently building **LearnAIcraft** — teaching AI + frontend dev to a growing community.
 
 **Looking to work with:** Freelance projects, remote roles, mentorship gigs, and collaborations.
 
@@ -27,10 +27,10 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 
 <div align="center">
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitAICraft&show_icons=true&theme=dark&hide=stars&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitAICraft&layout=compact&theme=dark&hide_border=true)
-
+<a href="https://github.com/amitAICraft">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitAICraft&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitAICraft&layout=compact&theme=dark" />
+</a>
 </div>
 
 ---
