@@ -29,43 +29,69 @@ Senior Frontend Engineer with **7+ years** building production React & Next.js a
 
 **Explore my repositories:** [github.com/amitAICraft](https://github.com/amitAICraft?tab=repositories)
 
-**Most Active In:** React • Next.js • TypeScript • JavaScript
+**Most Active In:** React • Next.js • TypeScript • JavaScript • Python • Gen AI • Machine Learning
 
-**Contributions:** Consistent shipping across telecom, fintech, healthcare, edtech
+**Contributions:** Consistent shipping across Telecom, Fintech, Healthcare, Edtech, Insurance
 
 </div>
 ---
 
-## 📊 GitHub At a Glance
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=amitAICraft&style=flat-square&color=blue)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=amitAICraft&theme=dark)
-
-</div>
-
-## 🛠️ Tech Stack
-
-**Frontend:**
+### **Frontend Core**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Performance & Tools:**
+### **Frameworks & Libraries**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=000)
+
+### **State Management & Build Tools**
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+### **Web Performance & Optimization**
+![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-FF4B4B?style=for-the-badge&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-000000?style=for-the-badge&logoColor=white)
+![SSG](https://img.shields.io/badge/SSG-00D9FF?style=for-the-badge&logoColor=white)
+![Code_Splitting](https://img.shields.io/badge/Code_Splitting-09A3D5?style=for-the-badge&logoColor=white)
+![Lazy_Loading](https://img.shields.io/badge/Lazy_Loading-FFA500?style=for-the-badge&logoColor=white)
+![Critical_CSS](https://img.shields.io/badge/Critical_CSS-1572B6?style=for-the-badge&logoColor=white)
+
+### **AI & Dev Tools**
+![Cursor](https://img.shields.io/badge/Cursor_AI-09A3D5?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-9333EA?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gen_AI](https://img.shields.io/badge/Gen_AI-FF6B6B?style=for-the-badge&logoColor=white)
+
+### **APIs & Integrations**
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Payment_Gateway](https://img.shields.io/badge/Payment_Gateway-0066CC?style=for-the-badge&logoColor=white)
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Chatbot_APIs](https://img.shields.io/badge/Chatbot_APIs-1F2937?style=for-the-badge&logoColor=white)
+
+### **Tools & Practices**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**AI & Emerging:**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-09A3D5?style=for-the-badge&logo=cursor&logoColor=white)
-
----
-
+![System_Design](https://img.shields.io/badge/System_Design-4A90E2?style=for-the-badge&logoColor=white)
+![Component_Architecture](https://img.shields.io/badge/Component_Architecture-61DAFB?style=for-the-badge&logoColor=white)
+![Code_Reviews](https://img.shields.io/badge/Code_Reviews-2E7D32?style=for-the-badge&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logoColor=white)
+![AppDynamics](https://img.shields.io/badge/AppDynamics-31A8FF?style=for-the-badge&logoColor=white)
+![Security](https://img.shields.io/badge/Security_Practices-D32F2F?style=for-the-badge&logoColor=white)
 ## 🔥 What I Actually Do
 
 ### For Teams & Companies
